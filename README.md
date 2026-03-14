@@ -16,9 +16,9 @@
 | Project | Stack | Status | Mission |
 | :--- | :--- | :--- | :--- |
 | **Pulse** | `FastAPI` `React` | `Beta` | AI-driven repo auditor for hackathon judges |
-| **Mira** | `Python` `OS Automation` | `Developing` | Personal OS assistant for focus & automation |
-| **Last Road North** | `Luau` `Roblox` | `Alpha` | Cooperative survival experience with vehicle mechanics |
-| **MK Property** | `React Vite PWA` `Supabase` | `V2` | Automating property management with my father |
+| **Prompter** | `Python` `OS Automation` | `Production` | Personal OS assistant for vibe coding |
+| **Alaqay AI** | `TypeScript` `Python` | `Alpha` | Your Personal "Cheif Of Stuff" |
+| **MK Property** | `React Vite PWA` `Supabase` | `V2` | Automating property management |
 
 ---
 
