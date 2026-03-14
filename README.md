@@ -1,16 +1,33 @@
-## Hi there 👋
+# ⚡ Terminal: Welcome to My Dev-Environment v3.1.0
 
-<!--
-**qtttyr/qtttyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="right">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mode-Vibe_Coding-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Base-Astana_KZ-orange?style=flat-square" />
+</div>
 
-Here are some ideas to get you started:
+### > WHOAMI
+**11th Grade Student | Startup Founder | AI & Robotics Engineer**
+> "Building software at the speed of thought. I don't just write code; I orchestrate AI agents to solve real-world problems."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Active Processes (Current Projects)
+| Project | Stack | Status | Mission |
+| :--- | :--- | :--- | :--- |
+| **Pulse** | `FastAPI` `React` | `Beta` | AI-driven repo auditor for hackathon judges |
+| **Mira** | `Python` `OS Automation` | `Developing` | Personal OS assistant for focus & automation |
+| **Last Road North** | `Luau` `Roblox` | `Alpha` | Cooperative survival experience with vehicle mechanics |
+| **MK Property** | `React Vite PWA` `Supabase` | `V2` | Automating property management with my father |
+
+---
+
+### 🔋 Tech Stack & Neural Prefs
+```json
+{
+  "web_frontend": ["React", "Vite", "TailwindCSS", "PWA"],
+  "backend_db": ["FastAPI", "Supabase", "PostgreSQL"],
+  "gamedev": ["Godot", "Roblox (Luau)", "C#"],
+  "hardware": ["ESP32-S3 (AR Glasses HUD)", "Arduino (Combat Robotics)"],
+  "ai_orchestration": ["Cursor", "Windsurf", "Gemini 1.5 Pro", "Custom Prompts"]
+}
