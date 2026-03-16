@@ -2,7 +2,7 @@
 
 <div align="right">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mode-Vibe_Coding-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mode-Coding-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Base-Astana_KZ-orange?style=flat-square" />
 </div>
 
